@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Luan+Robert;I'm+19+years+old;I+from+Santa+Rita+do+Sapucaí,+MG;I+am+Web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Luan+Robert;I'm+20+years+old;I+from+Santa+Rita+do+Sapucaí,+MG;I+am+Full+Stack+Web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/luanrobert07">
@@ -6,7 +6,7 @@
   <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanrobert07&layout=compact&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -18,11 +18,7 @@
 ##
 ##
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=luanrobert07&theme=gotham&hide_border=true&area=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luanrobert07&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 ![Snake animation](https://github.com/luanrobert07/luanrobert07/blob/output/github-contribution-grid-snake.svg)
 
@@ -48,10 +44,6 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luanrobert07}/count.svg" /></p> 
-<br></div>
 
  
 <div> 
