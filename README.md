@@ -10,22 +10,39 @@
 ### About me:
 👨‍💻 I am a Software Engineering student at INATEL and a passionate enthusiast for technology. I have a passion for exploring new knowledge and creating innovative solutions in this dynamic field. As a Full Stack developer, my expertise covers the most relevant technologies in the market, both in Front-end and Back-end.
 
-🎓 In addition to my studies, I am an active member of the Junior Company, where I have served as a developer. This experience not only solidified my practical understanding of the concepts learned in the classroom but also provided me with the opportunity to collaborate on real projects, facing challenges and contributing to creative solutions.
+### Main Skills:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-💻 My skills include proficiency in programming languages such as JavaScript, HTML, CSS, Python, Java, as well as experience with popular frameworks like React, Angular, Node.js, among others. Furthermore, I am familiar with agile methodologies, Test-Driven Development (TDD) practices, and Continuous Integration/Continuous Deployment (CI/CD), enabling me to deliver high-quality projects efficiently.
+### Tools:
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%230036B6.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%23A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-🚀 My goal is to continue expanding my knowledge in Software Engineering, constantly seeking challenges that allow me to grow professionally and contribute significantly to the development of innovative technological solutions. I am always open to learning opportunities and collaboration on interesting projects that can add value to both my career and the software development community at large.
+### Databases:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-🔍 You can find more details about my learning journey and professional experience on my GitHub profile. I look forward to new connections and growth opportunities on this exciting technological journey.
 
-### Main skills:
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,css,html,javascript,typescript,python,java,react,nodejs,tailwind,nextjs,django)](https://skills.thijs.gg)
- 
- ### Tools:
-[![My Tools](https://skills.thijs.gg/icons?i=docker,git,prisma,arduino,wordpress,vscode,github,raspberrypi,figma&theme=light)](https://skills.thijs.gg)
-
-### Databases: 
-[![My Skills](https://skills.thijs.gg/icons?i=postgres,mongodb,mysql,sqlite)](https://skills.thijs.gg)
 
 <div> 
   <a href="https://instagram.com/luan.robert07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
