@@ -1,18 +1,35 @@
 # 👋 Hello, I'm Luan Robert!  
 
-### About Me  
+### 🚀 About Me  
+
 🎓 **Software Engineering Student** at INATEL  
-💻 **Full Stack Developer** passionate about technology and innovation  
-🌍 From **Santa Rita do Sapucaí, MG**  
-✨ I enjoy exploring new knowledge, solving problems, and building impactful solutions  
+💻 **Full Stack Developer** driven by innovation, design, and entrepreneurship  
+🌍 From **Santa Rita do Sapucaí, MG – Brazil**  
+📱 Founder-minded and passionate about building real-world solutions that connect technology with purpose  
+🧠 Always learning, always creating — from landing pages to scalable applications  
+🌐 [**Check out my Portfolio**](https://portfolio-nexjs-theta.vercel.app/)
+
+---
 
 <div> 
-  <a href="https://instagram.com/luan.robert07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "luanrobert580@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luan-robert-a5604b245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/luan.robert07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:luanrobert580@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/luan-robert-a5604b245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-<h3 align="center">Statistics</h3>
+---
+
+### 💡 What I’m Passionate About
+
+- ✨ Combining design, code, and business to bring bold ideas to life  
+- 🌱 Learning by building — real projects, real users, real value  
+- 📊 Creating and testing digital products from scratch with a startup mindset  
+- 📲 Mobile-first development and seamless user experiences  
+- 💸 Fintech, digital entrepreneurship, and tools that empower people
+
+---
+
+### 📊 GitHub Statistics
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luan-robert&show_icons=true&theme=radical">
@@ -20,7 +37,8 @@
 </div>
 
 ---
-<h3 align="center">Languages & Frameworks</h3>
+
+### 🧠 Languages & Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -38,7 +56,10 @@
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </p>
 
-<h3 align="center">Tools</h3>
+---
+
+### 🛠 Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
@@ -46,13 +67,21 @@
   <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white">
 </p>
 
+---
 
-<h3 align="center">Databases</h3>
+### 🗃 Databases
+
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
+
+---
+
+### ✨ Final Thought
+
+> *“Building isn’t just about writing code — it’s about connecting ideas, solving real problems, and creating meaningful impact.”*
 
 
