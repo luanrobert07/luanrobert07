@@ -5,7 +5,7 @@
 Building scalable solutions that bridge technology and real-world impact. Passionate about design, innovation, and entrepreneurship.
 
 📍 Santa Rita do Sapucaí, MG – Brazil  
-🎓 Software Engineering @ INATEL  
+🎓 Software Engineering
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luan-robert-a5604b245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
