@@ -1,87 +1,90 @@
-# 👋 Hello, I'm Luan Robert!  
+# Luan Robert
 
-### 🚀 About Me  
+**Software Engineer** • **Full Stack Developer**
 
-🎓 **Software Engineering Student** at INATEL  
-💻 **Full Stack Developer** driven by innovation, design, and entrepreneurship  
-🌍 From **Santa Rita do Sapucaí, MG – Brazil**  
-📱 Founder-minded and passionate about building real-world solutions that connect technology with purpose  
-🧠 Always learning, always creating — from landing pages to scalable applications  
-🌐 [**Check out my Portfolio**](https://portfolio-nexjs-theta.vercel.app/)
+Building scalable solutions that bridge technology and real-world impact. Passionate about design, innovation, and entrepreneurship.
 
----
-
-<div> 
-  <a href="https://instagram.com/luan.robert07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:luanrobert580@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/luan-robert-a5604b245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
-
----
-
-### 💡 What I’m Passionate About
-
-- ✨ Combining design, code, and business to bring bold ideas to life  
-- 🌱 Learning by building — real projects, real users, real value  
-- 📊 Creating and testing digital products from scratch with a startup mindset  
-- 📲 Mobile-first development and seamless user experiences  
-- 💸 Fintech, digital entrepreneurship, and tools that empower people
-
----
-
-### 📊 GitHub Statistics
+📍 Santa Rita do Sapucaí, MG – Brazil  
+🎓 Software Engineering @ INATEL  
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luan-robert&show_icons=true&theme=radical">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-robert&layout=compact&theme=radical">
+  <a href="https://www.linkedin.com/in/luan-robert-a5604b245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-nexjs-theta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:luanrobert580@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/luan.robert07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ---
 
-### 🧠 Languages & Frameworks
+### 👨🏻‍💻 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-</p>
+I am a Software Engineering student at **INATEL** with a founder-driven mindset. My focus is on bridging the gap between complex engineering and intuitive design. I don't just write code; I build digital products that solve real-world problems with a focus on scalability and user experience.
+
+* 🌍 Based in **Santa Rita do Sapucaí, MG – Brazil** (The Electronics Valley).
+* 🚀 Passionate about **Entrepreneurship, Fintechs, and Mobile-first solutions**.
+* 🧠 Currently deepening my knowledge in scalable architectures and Cloud computing.
 
 ---
 
-### 🛠 Tools
+### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white">
-</p>
+#### 🌐 Frontend & Mobile
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### ⚙️ Backend & Languages
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+#### 🗄️ Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
+<!-- ### 🌟 Featured Project
 
-### 🗃 Databases
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-</p>
+ <div align="center">
+  <table>
+    <tr>
+      <td>
+        <ins><strong>NexJS Portfolio</strong></ins> <br /><br />
+        Uma plataforma de portfólio de alta performance construída para demonstrar projetos full-stack, com foco em <strong>UX/UI moderno</strong> e performance otimizada. 
+        <br /><br />
+        • 🛠️ <strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS, Framer Motion.<br />
+        • 🚀 <strong>Destaque:</strong> Design responsivo e animações fluidas para melhor retenção do usuário.<br /><br />
+        <a href="https://portfolio-nexjs-theta.vercel.app/"><strong>View Demo</strong></a> | 
+        <a href="https://github.com/luan-robert/SEU-REPO"><strong>View Code</strong></a>
+      </td>
+      <td>
+        <img src="https://via.placeholder.com/400x225.png?text=NexJS+Portfolio+Screenshot" width="400px" />
+      </td>
+    </tr>
+  </table>
+</div> 
 
 ---
+-->
+### 💬 Let's Connect!
 
-### ✨ Final Thought
+I'm always open to collaborating on innovative projects or discussing the future of tech and business. 
 
-> *“Building isn’t just about writing code — it’s about connecting ideas, solving real problems, and creating meaningful impact.”*
+<div align="center">
+
+  >*“Building isn’t just about writing code — it’s about connecting ideas, solving real problems, and creating meaningful impact.”*
+
+</div>
+
+
 
 
