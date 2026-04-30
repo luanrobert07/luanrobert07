@@ -56,7 +56,7 @@ Gamified platform focused on financial education and user engagement.
 • Focus: UX, scalability, and product thinking  
 • Features: quizzes, simulators, mission-based learning  
 
-🔗 [View Project](https://portfolio-nexjs-theta.vercel.app/)  
+🔗 [View Project](https://bullvest-application-web.vercel.app/)  
 
 ---
 
